@@ -16,8 +16,8 @@ Este projeto pode ser utilizado para:
 ## 🙌 Contribuição
 Se você deseja contribuir com este projeto, sinta-se à vontade para:
 
-Fazer um fork do repositório.
-Criar uma branch para suas alterações (git checkout -b feature/nova-feature).
-Fazer suas alterações e commit (git commit -am 'Adicionando nova feature').
-Fazer push para a branch (git push origin feature/nova-feature).
-Criar um novo Pull Request.
+- Fazer um fork do repositório.
+- Criar uma branch para suas alterações (git checkout -b feature/nova-feature).
+- Fazer suas alterações e commit (git commit -am 'Adicionando nova feature').
+- Fazer push para a branch (git push origin feature/nova-feature).
+- Criar um novo Pull Request.
