@@ -1,6 +1,6 @@
 # Projeto Conta Bancária - Java Full-Stack Jr. 🏦💸
 ## 🎯 Objetivos
-Neste projeto, desenvolvemos uma aplicação de Conta Bancária como parte do curso de Java Full-Stack Jr. da Generation Brasil. 
+Neste projeto, desenvolvi uma aplicação de Conta Bancária como parte do curso de Java Full-Stack Jr. da Generation Brasil. 
 O objetivo principal é criar um sistema que simule operações bancárias básicas, como depósitos, saques e consultas de saldo, utilizando os princípios da programação orientada a objetos em Java.
 
 ## 🛠️ Tecnologia
